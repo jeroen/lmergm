@@ -1,0 +1,12 @@
+Package: lmergm
+Type: Package
+Title: Mixed effects ergm models
+Version: 0.1
+Date: 2011-05-20
+Author: Jeroen Ooms
+Maintainer: Jeroen Ooms <jeroen.ooms@stat.ucla.edu>
+Description: Make ergm models with dyad level effects random on the node level.
+License: GPL
+LazyLoad: no
+LazyData: no
+Depends: ergm, lme4

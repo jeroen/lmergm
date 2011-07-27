@@ -1,0 +1,75 @@
+\begin{thebibliography}{}
+
+\bibitem[Bates and Sarkar, 2007]{bates2007lme4}
+Bates, D. and Sarkar, D. (2007).
+\newblock lme4: Linear mixed-effects models using s4 classes.
+
+\bibitem[Browne et~al., 2001]{browne2001multiple}
+Browne, W., Goldstein, H., and Rasbash, J. (2001).
+\newblock Multiple membership multiple classification (mmmc) models.
+\newblock {\em Statistical Modelling}, 1(2):103.
+
+\bibitem[De~Leeuw and Meijer, 2008]{de2008handbook}
+De~Leeuw, J. and Meijer, E. (2008).
+\newblock {\em Handbook of multilevel analysis}.
+\newblock Springer Verlag.
+
+\bibitem[Gelman, 2004]{gelman2004bayesian}
+Gelman, A. (2004).
+\newblock {\em Bayesian data analysis}.
+\newblock CRC press.
+
+\bibitem[Hansell, 1984]{hansell1984cooperative}
+Hansell, S. (1984).
+\newblock Cooperative groups, weak ties, and the integration of peer
+  friendships.
+\newblock {\em Social Psychology Quarterly}, 47(4):316--328.
+
+\bibitem[Hunter et~al., 2008]{hunter2008ergm}
+Hunter, D., Handcock, M., Butts, C., Goodreau, S., and Morris, M. (2008).
+\newblock ergm: A package to fit, simulate and diagnose exponential-family
+  models for networks.
+\newblock {\em Journal of Statistical Software}, 24(3):nihpa54860.
+
+\bibitem[James and Stein, 1961]{james1961estimation}
+James, W. and Stein, C. (1961).
+\newblock Estimation with quadratic loss.
+\newblock In {\em Proceedings of the fourth Berkeley symposium on mathematical
+  statistics and probability: held at the Statistical Laboratory, University of
+  California, June 20-July 30, 1960}, page 361. Univ of California Press.
+
+\bibitem[Lazega, 2001]{lazega2001collegial}
+Lazega, E. (2001).
+\newblock {\em The collegial phenomenon: The social mechanisms of cooperation
+  among peers in a corporate law partnership}.
+\newblock Oxford University Press, USA.
+
+\bibitem[Lazega and Pattison, 1999]{lazega1999multiplexity}
+Lazega, E. and Pattison, P. (1999).
+\newblock Multiplexity, generalized exchange and cooperation in organizations:
+  a case study.
+\newblock {\em Social networks}, 21(1):67--90.
+
+\bibitem[{R Development Core Team}, 2010]{rmanual}
+{R Development Core Team} (2010).
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+\newblock {ISBN} 3-900051-07-0.
+
+\bibitem[Rasbash and Goldstein, 1994]{rasbash1994efficient}
+Rasbash, J. and Goldstein, H. (1994).
+\newblock Efficient analysis of mixed hierarchical and cross-classified random
+  structures using a multilevel model.
+\newblock {\em Journal of Educational and Behavioral statistics}, 19(4):337.
+
+\bibitem[Snijders et~al., 2006]{snijders2006new}
+Snijders, T., Pattison, P., Robins, G., and Handcock, M. (2006).
+\newblock New specifications for exponential random graph models.
+\newblock {\em Sociological Methodology}, 36(1):99.
+
+\bibitem[Wang and Wong, 1987]{wang1987stochastic}
+Wang, Y. and Wong, G. (1987).
+\newblock Stochastic blockmodels for directed graphs.
+\newblock {\em Journal of the American Statistical Association}, 82(397):8--19.
+
+\end{thebibliography}

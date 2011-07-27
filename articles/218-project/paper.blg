@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: paper.aux
+The style file: apalike.bst
+Database file #1: paper.bib
+Warning--empty journal in bates2007lme4
+You've used 13 entries,
+            1935 wiz_defined-function locations,
+            556 strings with 5780 characters,
+and the built_in function-call counts, 4671 in all, are:
+= -- 449
+> -- 175
+< -- 11
++ -- 58
+- -- 56
+* -- 385
+:= -- 829
+add.period$ -- 40
+call.type$ -- 13
+change.case$ -- 89
+chr.to.int$ -- 13
+cite$ -- 14
+duplicate$ -- 191
+empty$ -- 338
+format.name$ -- 81
+if$ -- 909
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 15
+newline$ -- 68
+num.names$ -- 39
+pop$ -- 83
+preamble$ -- 1
+purify$ -- 93
+quote$ -- 0
+skip$ -- 143
+stack$ -- 0
+substring$ -- 278
+swap$ -- 20
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 72
+warning$ -- 1
+while$ -- 37
+width$ -- 0
+write$ -- 168
+(There was 1 warning)
